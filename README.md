@@ -4,7 +4,6 @@
 ![image](https://github.com/AryanSaxenaa/Real-time-face-detection/assets/100140924/07ff2736-39cf-44c3-9a9b-bc853159f3b0)
 ![image](https://github.com/AryanSaxenaa/Real-time-face-detection/assets/100140924/a3c82fdf-69e6-4b51-9034-dd36a76405b4)
 ![image](https://github.com/AryanSaxenaa/Real-time-face-detection/assets/100140924/fe40932a-d772-44cd-80b7-a294327efef6)
-![image](https://github.com/AryanSaxenaa/Real-time-face-detection/assets/100140924/4bd20c17-b476-4db7-b20b-0933e0c46794)
 
 
 
