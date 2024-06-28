@@ -1,4 +1,4 @@
-# Minor Project
+
 ![image](https://github.com/AryanSaxenaa/Real-time-face-detection/assets/100140924/a94416ed-47af-47ce-af4b-16e5450d5d07)
 ![image](https://github.com/AryanSaxenaa/Real-time-face-detection/assets/100140924/a9749015-9ef5-4752-afec-c4080de058b2)
 ![image](https://github.com/AryanSaxenaa/Real-time-face-detection/assets/100140924/07ff2736-39cf-44c3-9a9b-bc853159f3b0)
